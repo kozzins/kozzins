@@ -10,8 +10,6 @@ Email: kozzins.com@gmail.com
 
 LinkedIn: www.linkedin.com/kozzins
 
-Twitter: www.twitter.com/kozzins
-
 Feel free to leave feedback, ask questions, or suggest improvements. I always welcome new contacts and opportunities to collaborate.
 
 [Acknowledgements]
