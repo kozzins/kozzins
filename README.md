@@ -4,9 +4,6 @@
 - 💞️ I'm looking to collaborate on IT-startups/ influencers and technology evangelists.
 - (especially interesting: AI/ cybersecurity/ crypto/ DeFi/ GameFi)
 - 📫 If you have questions, suggestions, or just want to chat, feel free to contact me.
-  
-
-Email: kozzins.com@gmail.com
 
 LinkedIn: www.linkedin.com/kozzins
 
