@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Iván Kozzins.
+- 👋 Hi, I’m Ivan Kozzins.
 - 👀 С/ С++/ С#/ Pascal/ Delphi/ Lazarus/ Java
 - 🌱 I’m currently learning Solidity, Unreal
 - 💞️ I'm looking to collaborate on IT-startups/ influencers and technology evangelists.
